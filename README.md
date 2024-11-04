@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying computer science<br>🔭 I’m currently working on school labs and projects
+🎓 I am currently studying computer science<br>🔭 I’m currently working on school labs and projects
 
 
 ## 🌐 Socials:
