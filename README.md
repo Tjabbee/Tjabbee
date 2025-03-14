@@ -15,6 +15,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tjabbee.tjabbee&"  />
+</div>
+
+###
+
 # 💫 About Me:
 🎓 I am currently studying computer science<br>🔭 I’m currently working on school labs and projects
 
